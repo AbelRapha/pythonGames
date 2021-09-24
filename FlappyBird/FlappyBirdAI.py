@@ -1,6 +1,11 @@
 import pygame
 import os
 import random
+import neat
+
+#Configuracao da AI 
+ai_jogando = True
+geracao = 0
 
 TELA_LARGURA = 500
 TELA_ALTURA = 800

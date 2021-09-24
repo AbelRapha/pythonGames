@@ -8,15 +8,17 @@
 <br>
 
 ## Como utilizar?
-1. Baixar o aplicativo executável
-2. Desativar o seu Antivírus ou Windows Defender
-3. Executar o programa como administrador
-4. Utilizar o Espaço para pular
-5. Para reiniciar o jogo é só fechá-lo e abrir o arquivo novamente
+1. Instalar o python versão 3.9
+2. Clonar este repositório
+3. Abrir no seu editor de código (Indicação minha VS Code)
+4. Compilar o código de Arquivo FlappyBird.py
+5. Utilizar o Espaço para pular
+6. Para reiniciar o jogo é só fechá-lo e compilar o arquivo novamente
 <br>
 
 ## Inteligência Artificial
-* Arquivo de configuração da [Rede Neural](FlappyBird\Configuracao-da-Inteligencia-Artificial.txt)
+* Arquivo de configuração da [Rede Neural](FlappyBird\config.txt)
+* Arquivo da Inteligência artificial jogando: FlappyBirdAI.py
 <br>
    
 ## Desenvolvimento do Projeto
